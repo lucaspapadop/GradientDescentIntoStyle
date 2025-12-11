@@ -3,7 +3,7 @@
 ## Running on Google Colab (Recommended)
 
 ### Step 1: Setup (5 minutes)
-1. Open the notebook in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/deepfashion2-adaptive-clustering/blob/main/DeepFashion2AdaptiveClustering.ipynb)
+1. Open the notebook in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucaspapadop/GradientDescentIntoStyle/blob/main/DeepFashion2AdaptiveClustering.ipynb)
 2. Go to Runtime → Change runtime type → Select **T4 GPU**
 3. Run the first cells to check GPU availability
 
@@ -41,8 +41,8 @@ Training will show:
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/deepfashion2-adaptive-clustering.git
-cd deepfashion2-adaptive-clustering
+git clone https://github.com/lucaspapadop/GradientDescentIntoStyle.git
+cd GradientDescentIntoStyle
 pip install -r requirements.txt
 ```
 
