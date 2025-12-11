@@ -270,7 +270,7 @@ If you use this code in your research, please cite:
 
 ## Acknowledgments
 
-- **Max Bradley**: [My teacher]
+- **Max Bradley**: [My teacher](https://www.linkedin.com/in/maxwell-br9/)
 - **DeepFashion2 Dataset**: [Ge et al., CVPR 2019](https://github.com/switchablenorms/DeepFashion2)
 - **EfficientNet**: [Tan & Le, ICML 2019](https://arxiv.org/abs/1905.11946)
 - **DeepCluster**: [Caron et al., ECCV 2018](https://arxiv.org/abs/1807.05520)
@@ -300,7 +300,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Lucas Papadopoulos - lucas.popadopoulos@gmail.com
 
-Project Link: [https://github.com/lucaspapadop/deepfashion2-adaptive-clustering](https://github.com/lucaspapadop/deepfashion2-adaptive-clustering)
+Project Link: [https://github.com/lucaspapadop/GradientDescentIntoStyle](https://github.com/lucaspapadop/GradientDescentIntoStyle)
 
 ---
 
@@ -308,4 +308,4 @@ Project Link: [https://github.com/lucaspapadop/deepfashion2-adaptive-clustering]
 
 If you find this project useful, please consider giving it a star! 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/deepfashion2-adaptive-clustering&type=Date)](https://star-history.com/#yourusername/deepfashion2-adaptive-clustering&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/deepfashion2-adaptive-clustering&type=Date)](https://star-history.com/lucaspapadop/GradientDescentIntoStyle&Date)
