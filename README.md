@@ -259,10 +259,10 @@ If you use this code in your research, please cite:
 ```bibtex
 @misc{deepfashion2-adaptive-clustering,
   author = {Lucas Papadopoulos},
-  title = {DeepFashion2 Adaptive Clustering: Unsupervised Fashion Discovery},
+  title = {Gradient Descent Into Style},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/deepfashion2-adaptive-clustering}
+  url = {(https://github.com/lucaspapadop/GradientDescentIntoStyle)}
 }
 ```
 
