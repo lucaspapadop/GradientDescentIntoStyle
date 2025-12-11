@@ -69,8 +69,8 @@ When 80 novel samples accumulate, the system expands by one cluster: `k → k+1`
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/deepfashion2-adaptive-clustering.git
-cd deepfashion2-adaptive-clustering
+git clone https://github.com/yourusername/GradientDescentIntoStyle.git
+cd GradientDescentIntoStyle
 
 # Install dependencies
 pip install torch torchvision efficientnet-pytorch
@@ -257,7 +257,7 @@ Use learned cluster structure to guide efficient manual annotation:
 If you use this code in your research, please cite:
 
 ```bibtex
-@misc{deepfashion2-adaptive-clustering,
+@misc{GradientDescentIntoStyle,
   author = {Lucas Papadopoulos},
   title = {Gradient Descent Into Style},
   year = {2025},
@@ -308,4 +308,4 @@ Project Link: [https://github.com/lucaspapadop/GradientDescentIntoStyle](https:/
 
 If you find this project useful, please consider giving it a star! 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/deepfashion2-adaptive-clustering&type=Date)](https://star-history.com/lucaspapadop/GradientDescentIntoStyle&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/GradientDescentIntoStyle&type=Date)](https://star-history.com/lucaspapadop/GradientDescentIntoStyle&Date)
